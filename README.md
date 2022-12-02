@@ -43,7 +43,7 @@ Library APIs/Functions enable the Creditor to get information about the DSPs Par
 
 
 ### Flow Diagram
-![Generic Flow diagram of library user journey](https://user-images.githubusercontent.com/90037467/192294911-dbc328a8-0ae3-4658-8175-8dac7c393cf6.JPG)
+![Creditor-commerce-library-folder-structure-v1 0 0](https://user-images.githubusercontent.com/90037467/205259114-ba7c1a19-74b8-422d-9f2f-cfef686a2593.png)
 
 
 ###### Figure 1: Generic Flow diagram of library user journey 
